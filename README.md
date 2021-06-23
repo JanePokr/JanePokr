@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanePokr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JS and JAVA
+- 🌱 I’m IT recruiter
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me -11sbgroup@gmail.com +375333582122
 
